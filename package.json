@@ -2,10 +2,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "install-python": "pip install -r requirements.txt",
-    "install-node": "npm install",
-    "install-all": "npm-run-all install-python install-node"
+    "start": "node app.js"
   },
   "dependencies": {
     "express": "^4.17.1",
